@@ -70,8 +70,10 @@ g++ digiclock.cpp -o digiclock
 Screenshort :-
 
 https://github.com/CodeVerseAnkit/DIGICLOCK-/blob/main/Screenshort2.jpg
+https://github.com/CodeVerseAnkit/DIGICLOCK-/blob/main/Screenshort1.jpg
 
 
+---
 
 > 💡 Note:
 • This project uses <conio.h>, which works best on Windows terminals.
